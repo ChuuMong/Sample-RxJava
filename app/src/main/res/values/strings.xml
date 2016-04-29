@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Sample RxJava</string>
+
+    <array name="list">
+        <item>Simple Observable</item>
+        <item>Simple Subscriber</item>
+        <item>Simple Map</item>
+        <item>View Event</item>
+        <item>Merge With</item>
+        <item>Scan</item>
+    </array>
 </resources>
